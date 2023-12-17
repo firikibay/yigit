@@ -14,6 +14,3 @@ int removeElement(int* nums, int numsSize, int val) {
     return k;
 }
 
-// Optional: You can include helper functions here
-
-// Note: No main function is needed here, as LeetCode will provide its own main during testing.
